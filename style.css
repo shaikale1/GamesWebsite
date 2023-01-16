@@ -3,3 +3,6 @@ body{
     height: 100%;
     background-image: linear-gradient(90deg, blue,white);
 }
+img{
+    width: 50%;
+}
